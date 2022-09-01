@@ -1,0 +1,15 @@
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\bin\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.exe
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\bin\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.deps.json
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\bin\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.runtimeconfig.json
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\bin\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.dll
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\bin\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.pdb
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.csproj.AssemblyReference.cache
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.AssemblyInfoInputs.cache
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.AssemblyInfo.cs
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.csproj.CoreCompileInputs.cache
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.dll
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\refint\trilha-net-explorando-desafio-hotelaria.dll
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.pdb
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\trilha-net-explorando-desafio-hotelaria.genruntimeconfig.cache
+C:\Projetos\trilha-net-explorando-desafio\trilha-net-explorando-desafio-hotelaria\obj\Debug\net6.0\ref\trilha-net-explorando-desafio-hotelaria.dll
